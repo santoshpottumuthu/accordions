@@ -1,7 +1,8 @@
-import React from 'react'
-import '../styles/AccordionItem.css'
+import React from 'react';
+import '../styles/AccordionItem.scss';
 import { toggleAccordionItem } from "../actions";
 import { connect } from 'react-redux';
+// import MaterialIcon from '@material/react-material-icon/index.scss';
 
 const AccordionItem = (props) => (
     <li className={"accordion_item"}

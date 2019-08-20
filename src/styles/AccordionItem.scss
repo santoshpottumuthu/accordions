@@ -1,11 +1,9 @@
-.accordion_item {
-    /*border: 1px solid blue;*/
-}
+$white: #ddd;
+
 .accordion_heading {
-    /*border: 1px solid blue;*/
     cursor: pointer;
     padding: 5px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid $white;
 }
 .accordion_heading i {
     font-size: 16px;
@@ -17,7 +15,7 @@
     white-space: pre-wrap;
     display: none;
     padding: 10px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid $white;
 }
 .accordion_show {
     display: block;
