@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/accordion/static/js/main.703902f1.chunk.js",
-    "main.js.map": "/accordion/static/js/main.703902f1.chunk.js.map",
-    "runtime~main.js": "/accordion/static/js/runtime~main.8b4b9081.js",
-    "runtime~main.js.map": "/accordion/static/js/runtime~main.8b4b9081.js.map",
-    "static/js/2.f483084b.chunk.js": "/accordion/static/js/2.f483084b.chunk.js",
-    "static/js/2.f483084b.chunk.js.map": "/accordion/static/js/2.f483084b.chunk.js.map",
-    "index.html": "/accordion/index.html",
-    "precache-manifest.25aa72838563af9d81bc10bf2f834a21.js": "/accordion/precache-manifest.25aa72838563af9d81bc10bf2f834a21.js",
-    "service-worker.js": "/accordion/service-worker.js"
+    "main.js": "/accordions/static/js/main.4f2ea5de.chunk.js",
+    "main.js.map": "/accordions/static/js/main.4f2ea5de.chunk.js.map",
+    "runtime~main.js": "/accordions/static/js/runtime~main.331584a1.js",
+    "runtime~main.js.map": "/accordions/static/js/runtime~main.331584a1.js.map",
+    "static/js/2.544bda8e.chunk.js": "/accordions/static/js/2.544bda8e.chunk.js",
+    "static/js/2.544bda8e.chunk.js.map": "/accordions/static/js/2.544bda8e.chunk.js.map",
+    "index.html": "/accordions/index.html",
+    "precache-manifest.738dfbb9da6999261816a8e2c90e0bed.js": "/accordions/precache-manifest.738dfbb9da6999261816a8e2c90e0bed.js",
+    "service-worker.js": "/accordions/service-worker.js"
   }
 }
