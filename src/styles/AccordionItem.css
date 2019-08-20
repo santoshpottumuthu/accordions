@@ -1,0 +1,24 @@
+.accordion_item {
+    /*border: 1px solid blue;*/
+}
+.accordion_heading {
+    /*border: 1px solid blue;*/
+    cursor: pointer;
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+}
+.accordion_heading i {
+    font-size: 16px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.accordion_body {
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    display: none;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.accordion_show {
+    display: block;
+}
